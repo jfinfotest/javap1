@@ -6,5 +6,6 @@ public class Main {
         int dato = 10;
         int dato2 = 10;
         int dato3 = 10;
+        int dato4 = 10;
     }
 }
